@@ -1,17 +1,17 @@
 # AUTOLIB ANALYSIS
 ## DESCRIPTION
-{This is an assignment to  process stations data to understand electric car usage over time in Autolib, a French company for electric car-sharing services. Analysis shows the mosp popular station and hour which will help them anticipate their services in a day. Also the most popular city which is obviously the capital Paris. }
+This is an assignment to  process stations data to understand electric car usage over time in Autolib, a French company for electric car-sharing services. Analysis shows the mosp popular station and hour which will help them anticipate their services in a day. Also the most popular city which is obviously the capital Paris. 
 
 ## SET UP REQUIREMENTS
-{ A computer with google chrome browser to open google colab}
+A computer with google chrome browser to open google colab
 * [Autolib](http://bit.ly/autolib_dataset)
 * [Description](https://drive.google.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view)
 ## TECHNOLOGIES USED
-{ Python incorporated with pandas and numpy and matplot libraries}
+Python incorporated with pandas and numpy and matplot libraries
 ## SUPPORT DETAILS
-{Feel free to fork and add any necessary changes or corrections. }
+Feel free to fork and add any necessary changes or corrections. 
 ## LICENSE
-*{MIT License
+*MIT License
 
 Copyright (c) [2021] [Denise Mbugua]
 
@@ -31,4 +31,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.*
